@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cipy12gq2mefg"]
+
+[ext_resource type="PackedScene" uid="uid://bs60n42nw7wgp" path="res://Assets/3D/5_Buildings/Textures/Textures_02/Building_02.fbx" id="1_mbt25"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Building_02" parent="." instance=ExtResource("1_mbt25")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15.029345, 0, 0)

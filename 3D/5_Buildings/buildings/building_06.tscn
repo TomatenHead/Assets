@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://bc8ctu31m7lgp"]
+
+[ext_resource type="PackedScene" uid="uid://deo0nueware1w" path="res://Assets/3D/five_story_residential_building/source/999.fbx" id="1_a1d2u"]
+
+[node name="building_06" type="Node3D"]
+
+[node name="999" parent="." instance=ExtResource("1_a1d2u")]
+
+[node name="1000" parent="." instance=ExtResource("1_a1d2u")]
+transform = Transform3D(0.999, 0, 0, 0, 0.999, 0, 0, 0, 0.999, 0, 11.015371, 0)
+
+[node name="1001" parent="." instance=ExtResource("1_a1d2u")]
+transform = Transform3D(0.998, 0, 0, 0, 0.998, 0, 0, 0, 0.998, 0, 22.93961, 0)
