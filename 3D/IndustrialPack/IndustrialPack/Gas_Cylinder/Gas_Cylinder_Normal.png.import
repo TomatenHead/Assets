@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d1kxg2iu4efkl"
+uid="uid://bemx4plu5e2l4"
 path.s3tc="res://.godot/imported/Gas_Cylinder_Normal.png-1da965a730648924838b25a9ab218fd9.s3tc.ctex"
+path.etc2="res://.godot/imported/Gas_Cylinder_Normal.png-1da965a730648924838b25a9ab218fd9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Gas_Cylinder/Gas_Cylinder_Normal.png"
-dest_files=["res://.godot/imported/Gas_Cylinder_Normal.png-1da965a730648924838b25a9ab218fd9.s3tc.ctex"]
+dest_files=["res://.godot/imported/Gas_Cylinder_Normal.png-1da965a730648924838b25a9ab218fd9.s3tc.ctex", "res://.godot/imported/Gas_Cylinder_Normal.png-1da965a730648924838b25a9ab218fd9.etc2.ctex"]
 
 [params]
 

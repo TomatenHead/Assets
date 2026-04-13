@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnjfnf5sby2q0"
+uid="uid://c08sxpoub4cb3"
 path.s3tc="res://.godot/imported/Textures_03_BaseColor.png-10da7db253a0d9cb194ad3e4a3c97e16.s3tc.ctex"
+path.etc2="res://.godot/imported/Textures_03_BaseColor.png-10da7db253a0d9cb194ad3e4a3c97e16.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/5_Buildings/Textures/Textures_03/Textures_03_BaseColor.png"
-dest_files=["res://.godot/imported/Textures_03_BaseColor.png-10da7db253a0d9cb194ad3e4a3c97e16.s3tc.ctex"]
+dest_files=["res://.godot/imported/Textures_03_BaseColor.png-10da7db253a0d9cb194ad3e4a3c97e16.s3tc.ctex", "res://.godot/imported/Textures_03_BaseColor.png-10da7db253a0d9cb194ad3e4a3c97e16.etc2.ctex"]
 
 [params]
 

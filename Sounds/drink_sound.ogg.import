@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://cip252q5wwohj"
+uid="uid://by4nfutiltfec"
 path="res://.godot/imported/drink_sound.ogg-bc0cb70682e02ecbe272ec44d20a6a06.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/drink_sound.ogg-bc0cb70682e02ecbe272ec44d20a6
 [params]
 
 loop=false
-loop_offset=0.0
-bpm=0.0
+loop_offset=0
+bpm=0
 beat_count=0
 bar_beats=4

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bm7uogrj14xyb"
+uid="uid://c73y20a13fum7"
 path.s3tc="res://.godot/imported/ExplosiveBarrel_Normal_DirectX.png-26449dd7a1c50aec73c6e9ef15a6e8af.s3tc.ctex"
+path.etc2="res://.godot/imported/ExplosiveBarrel_Normal_DirectX.png-26449dd7a1c50aec73c6e9ef15a6e8af.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/ExplosiveBarrel/ExplosiveBarrel_Normal_DirectX.png"
-dest_files=["res://.godot/imported/ExplosiveBarrel_Normal_DirectX.png-26449dd7a1c50aec73c6e9ef15a6e8af.s3tc.ctex"]
+dest_files=["res://.godot/imported/ExplosiveBarrel_Normal_DirectX.png-26449dd7a1c50aec73c6e9ef15a6e8af.s3tc.ctex", "res://.godot/imported/ExplosiveBarrel_Normal_DirectX.png-26449dd7a1c50aec73c6e9ef15a6e8af.etc2.ctex"]
 
 [params]
 

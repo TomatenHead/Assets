@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4qmauk1s6ky7"
+uid="uid://dhyxu6cp8vjly"
 path.s3tc="res://.godot/imported/Platform_Trolley_Normal_DirectX.png-e98d70a9a4e3b72cd480f97a63b2cc38.s3tc.ctex"
+path.etc2="res://.godot/imported/Platform_Trolley_Normal_DirectX.png-e98d70a9a4e3b72cd480f97a63b2cc38.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Platform_Trolley/Platform_Trolley_Normal_DirectX.png"
-dest_files=["res://.godot/imported/Platform_Trolley_Normal_DirectX.png-e98d70a9a4e3b72cd480f97a63b2cc38.s3tc.ctex"]
+dest_files=["res://.godot/imported/Platform_Trolley_Normal_DirectX.png-e98d70a9a4e3b72cd480f97a63b2cc38.s3tc.ctex", "res://.godot/imported/Platform_Trolley_Normal_DirectX.png-e98d70a9a4e3b72cd480f97a63b2cc38.etc2.ctex"]
 
 [params]
 

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://l01lmkh1ma7h"
+uid="uid://fyk7vobj7qs8"
 path.s3tc="res://.godot/imported/CarJack_Normal_DirectX.png-6eb9e666ae8dce62a7aa87dd615d3d50.s3tc.ctex"
+path.etc2="res://.godot/imported/CarJack_Normal_DirectX.png-6eb9e666ae8dce62a7aa87dd615d3d50.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Car_Jack/CarJack_Normal_DirectX.png"
-dest_files=["res://.godot/imported/CarJack_Normal_DirectX.png-6eb9e666ae8dce62a7aa87dd615d3d50.s3tc.ctex"]
+dest_files=["res://.godot/imported/CarJack_Normal_DirectX.png-6eb9e666ae8dce62a7aa87dd615d3d50.s3tc.ctex", "res://.godot/imported/CarJack_Normal_DirectX.png-6eb9e666ae8dce62a7aa87dd615d3d50.etc2.ctex"]
 
 [params]
 

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bfvlsrmegtjnr"
+uid="uid://54bnxd1w8ub8"
 path.s3tc="res://.godot/imported/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png-04ff962d47f761405c45fc6f2d9e1867.s3tc.ctex"
+path.etc2="res://.godot/imported/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png-04ff962d47f761405c45fc6f2d9e1867.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png"
-dest_files=["res://.godot/imported/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png-04ff962d47f761405c45fc6f2d9e1867.s3tc.ctex"]
+dest_files=["res://.godot/imported/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png-04ff962d47f761405c45fc6f2d9e1867.s3tc.ctex", "res://.godot/imported/magic_cube_MagicCube_metallicRoughness_metal_scale0-MagicCube_metallicRoughness_rough.png-04ff962d47f761405c45fc6f2d9e1867.etc2.ctex"]
 
 [params]
 

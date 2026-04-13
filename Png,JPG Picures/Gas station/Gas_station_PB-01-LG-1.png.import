@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btp7mvqexvpk4"
+uid="uid://bjumhm88iawr2"
 path.s3tc="res://.godot/imported/Gas_station_PB-01-LG-1.png-9dfb4ec6e871ceda122e2a8258dd2dad.s3tc.ctex"
+path.etc2="res://.godot/imported/Gas_station_PB-01-LG-1.png-9dfb4ec6e871ceda122e2a8258dd2dad.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Png,JPG Picures/Gas station/Gas_station_PB-01-LG-1.png"
-dest_files=["res://.godot/imported/Gas_station_PB-01-LG-1.png-9dfb4ec6e871ceda122e2a8258dd2dad.s3tc.ctex"]
+dest_files=["res://.godot/imported/Gas_station_PB-01-LG-1.png-9dfb4ec6e871ceda122e2a8258dd2dad.s3tc.ctex", "res://.godot/imported/Gas_station_PB-01-LG-1.png-9dfb4ec6e871ceda122e2a8258dd2dad.etc2.ctex"]
 
 [params]
 

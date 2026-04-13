@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cw0pubpvfw3ap"
+uid="uid://bkggl1kxhvmlf"
 path.s3tc="res://.godot/imported/Electric_Miner_(1)_Emission.png-73ffcf835ced58ba2ed870541ca868c6.s3tc.ctex"
+path.etc2="res://.godot/imported/Electric_Miner_(1)_Emission.png-73ffcf835ced58ba2ed870541ca868c6.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Electric miner/Electric_Miner_(1)_Emission.png"
-dest_files=["res://.godot/imported/Electric_Miner_(1)_Emission.png-73ffcf835ced58ba2ed870541ca868c6.s3tc.ctex"]
+dest_files=["res://.godot/imported/Electric_Miner_(1)_Emission.png-73ffcf835ced58ba2ed870541ca868c6.s3tc.ctex", "res://.godot/imported/Electric_Miner_(1)_Emission.png-73ffcf835ced58ba2ed870541ca868c6.etc2.ctex"]
 
 [params]
 

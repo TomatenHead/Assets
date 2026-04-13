@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7qt858c4asmg"
+uid="uid://dliqnvmks1tbb"
 path.s3tc="res://.godot/imported/Gas_Cylinder_Base_Color.png-cb5251d86b96c003fc37f03f38856d8f.s3tc.ctex"
+path.etc2="res://.godot/imported/Gas_Cylinder_Base_Color.png-cb5251d86b96c003fc37f03f38856d8f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Gas_Cylinder/Gas_Cylinder_Base_Color.png"
-dest_files=["res://.godot/imported/Gas_Cylinder_Base_Color.png-cb5251d86b96c003fc37f03f38856d8f.s3tc.ctex"]
+dest_files=["res://.godot/imported/Gas_Cylinder_Base_Color.png-cb5251d86b96c003fc37f03f38856d8f.s3tc.ctex", "res://.godot/imported/Gas_Cylinder_Base_Color.png-cb5251d86b96c003fc37f03f38856d8f.etc2.ctex"]
 
 [params]
 

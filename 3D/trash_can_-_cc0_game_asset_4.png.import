@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://scgo4wighpfh"
+uid="uid://bdjtrvowq65r6"
 path.s3tc="res://.godot/imported/trash_can_-_cc0_game_asset_4.png-6e0d1a01e11591498b099ccc64cca00f.s3tc.ctex"
+path.etc2="res://.godot/imported/trash_can_-_cc0_game_asset_4.png-6e0d1a01e11591498b099ccc64cca00f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/trash_can_-_cc0_game_asset_4.png"
-dest_files=["res://.godot/imported/trash_can_-_cc0_game_asset_4.png-6e0d1a01e11591498b099ccc64cca00f.s3tc.ctex"]
+dest_files=["res://.godot/imported/trash_can_-_cc0_game_asset_4.png-6e0d1a01e11591498b099ccc64cca00f.s3tc.ctex", "res://.godot/imported/trash_can_-_cc0_game_asset_4.png-6e0d1a01e11591498b099ccc64cca00f.etc2.ctex"]
 
 [params]
 

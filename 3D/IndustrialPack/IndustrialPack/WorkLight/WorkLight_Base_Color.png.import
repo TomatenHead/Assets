@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dh0mn6mmud6ul"
+uid="uid://d30ka6ri65i8a"
 path.s3tc="res://.godot/imported/WorkLight_Base_Color.png-230baba9147d52190b6597356a0cf8a9.s3tc.ctex"
+path.etc2="res://.godot/imported/WorkLight_Base_Color.png-230baba9147d52190b6597356a0cf8a9.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/WorkLight/WorkLight_Base_Color.png"
-dest_files=["res://.godot/imported/WorkLight_Base_Color.png-230baba9147d52190b6597356a0cf8a9.s3tc.ctex"]
+dest_files=["res://.godot/imported/WorkLight_Base_Color.png-230baba9147d52190b6597356a0cf8a9.s3tc.ctex", "res://.godot/imported/WorkLight_Base_Color.png-230baba9147d52190b6597356a0cf8a9.etc2.ctex"]
 
 [params]
 

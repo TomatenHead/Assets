@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c7gl5yyb7ockv"
+uid="uid://de3qj2iegcspd"
 path.s3tc="res://.godot/imported/Electric Miner_ao_met_rough_Roughness.jpg-b183b97a19666168468f793887e56a51.s3tc.ctex"
+path.etc2="res://.godot/imported/Electric Miner_ao_met_rough_Roughness.jpg-b183b97a19666168468f793887e56a51.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Electric miner/Electric Miner_ao_met_rough_Roughness.jpg"
-dest_files=["res://.godot/imported/Electric Miner_ao_met_rough_Roughness.jpg-b183b97a19666168468f793887e56a51.s3tc.ctex"]
+dest_files=["res://.godot/imported/Electric Miner_ao_met_rough_Roughness.jpg-b183b97a19666168468f793887e56a51.s3tc.ctex", "res://.godot/imported/Electric Miner_ao_met_rough_Roughness.jpg-b183b97a19666168468f793887e56a51.etc2.ctex"]
 
 [params]
 

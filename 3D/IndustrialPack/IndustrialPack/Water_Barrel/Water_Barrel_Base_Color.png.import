@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cduiu7ydnctpc"
+uid="uid://chwhg08tgbkyo"
 path.s3tc="res://.godot/imported/Water_Barrel_Base_Color.png-4563af84fdc04e47d30060cf62eb602f.s3tc.ctex"
+path.etc2="res://.godot/imported/Water_Barrel_Base_Color.png-4563af84fdc04e47d30060cf62eb602f.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Water_Barrel/Water_Barrel_Base_Color.png"
-dest_files=["res://.godot/imported/Water_Barrel_Base_Color.png-4563af84fdc04e47d30060cf62eb602f.s3tc.ctex"]
+dest_files=["res://.godot/imported/Water_Barrel_Base_Color.png-4563af84fdc04e47d30060cf62eb602f.s3tc.ctex", "res://.godot/imported/Water_Barrel_Base_Color.png-4563af84fdc04e47d30060cf62eb602f.etc2.ctex"]
 
 [params]
 

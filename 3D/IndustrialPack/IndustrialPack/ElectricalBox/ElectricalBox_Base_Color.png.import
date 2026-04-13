@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dolft8ftfrttv"
+uid="uid://cuy8bkt2pfedf"
 path.s3tc="res://.godot/imported/ElectricalBox_Base_Color.png-e6ab6d8457d6af7032fa283df11f426b.s3tc.ctex"
+path.etc2="res://.godot/imported/ElectricalBox_Base_Color.png-e6ab6d8457d6af7032fa283df11f426b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/ElectricalBox/ElectricalBox_Base_Color.png"
-dest_files=["res://.godot/imported/ElectricalBox_Base_Color.png-e6ab6d8457d6af7032fa283df11f426b.s3tc.ctex"]
+dest_files=["res://.godot/imported/ElectricalBox_Base_Color.png-e6ab6d8457d6af7032fa283df11f426b.s3tc.ctex", "res://.godot/imported/ElectricalBox_Base_Color.png-e6ab6d8457d6af7032fa283df11f426b.etc2.ctex"]
 
 [params]
 

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bbe108u1uobtx"
+uid="uid://b6e2efkdmwpmb"
 path.s3tc="res://.godot/imported/floppy_disk_floppy_disk_realistic_bc.png-3c1b983dc504eabeaee31581ec27c344.s3tc.ctex"
+path.etc2="res://.godot/imported/floppy_disk_floppy_disk_realistic_bc.png-3c1b983dc504eabeaee31581ec27c344.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/floppy_disk_floppy_disk_realistic_bc.png"
-dest_files=["res://.godot/imported/floppy_disk_floppy_disk_realistic_bc.png-3c1b983dc504eabeaee31581ec27c344.s3tc.ctex"]
+dest_files=["res://.godot/imported/floppy_disk_floppy_disk_realistic_bc.png-3c1b983dc504eabeaee31581ec27c344.s3tc.ctex", "res://.godot/imported/floppy_disk_floppy_disk_realistic_bc.png-3c1b983dc504eabeaee31581ec27c344.etc2.ctex"]
 
 [params]
 

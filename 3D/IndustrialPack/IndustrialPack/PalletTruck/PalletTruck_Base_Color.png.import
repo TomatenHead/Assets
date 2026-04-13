@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhiwsbtry22s4"
+uid="uid://yp1wvemkfrbu"
 path.s3tc="res://.godot/imported/PalletTruck_Base_Color.png-b76a1c4fb161fd4fccf3f5b3537569fb.s3tc.ctex"
+path.etc2="res://.godot/imported/PalletTruck_Base_Color.png-b76a1c4fb161fd4fccf3f5b3537569fb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/PalletTruck/PalletTruck_Base_Color.png"
-dest_files=["res://.godot/imported/PalletTruck_Base_Color.png-b76a1c4fb161fd4fccf3f5b3537569fb.s3tc.ctex"]
+dest_files=["res://.godot/imported/PalletTruck_Base_Color.png-b76a1c4fb161fd4fccf3f5b3537569fb.s3tc.ctex", "res://.godot/imported/PalletTruck_Base_Color.png-b76a1c4fb161fd4fccf3f5b3537569fb.etc2.ctex"]
 
 [params]
 

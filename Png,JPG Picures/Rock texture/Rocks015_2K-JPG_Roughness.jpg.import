@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wsxays1m3sfa"
+uid="uid://dcyenvv1cvm5p"
 path.s3tc="res://.godot/imported/Rocks015_2K-JPG_Roughness.jpg-0e8113648204d272a42f1613e6d3985c.s3tc.ctex"
+path.etc2="res://.godot/imported/Rocks015_2K-JPG_Roughness.jpg-0e8113648204d272a42f1613e6d3985c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Png,JPG Picures/Rock texture/Rocks015_2K-JPG_Roughness.jpg"
-dest_files=["res://.godot/imported/Rocks015_2K-JPG_Roughness.jpg-0e8113648204d272a42f1613e6d3985c.s3tc.ctex"]
+dest_files=["res://.godot/imported/Rocks015_2K-JPG_Roughness.jpg-0e8113648204d272a42f1613e6d3985c.s3tc.ctex", "res://.godot/imported/Rocks015_2K-JPG_Roughness.jpg-0e8113648204d272a42f1613e6d3985c.etc2.ctex"]
 
 [params]
 

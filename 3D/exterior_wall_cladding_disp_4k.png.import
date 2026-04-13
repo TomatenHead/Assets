@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5mb64eubocw3"
+uid="uid://dtdcfe0vmel63"
 path.s3tc="res://.godot/imported/exterior_wall_cladding_disp_4k.png-7daec102741fa7aa1931538cb78a240b.s3tc.ctex"
+path.etc2="res://.godot/imported/exterior_wall_cladding_disp_4k.png-7daec102741fa7aa1931538cb78a240b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/exterior_wall_cladding_disp_4k.png"
-dest_files=["res://.godot/imported/exterior_wall_cladding_disp_4k.png-7daec102741fa7aa1931538cb78a240b.s3tc.ctex"]
+dest_files=["res://.godot/imported/exterior_wall_cladding_disp_4k.png-7daec102741fa7aa1931538cb78a240b.s3tc.ctex", "res://.godot/imported/exterior_wall_cladding_disp_4k.png-7daec102741fa7aa1931538cb78a240b.etc2.ctex"]
 
 [params]
 

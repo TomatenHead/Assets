@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qibas1orb8la"
+uid="uid://s5a62i4eqei0"
 path.s3tc="res://.godot/imported/Gas station_s2 Dusty BASE.png-a0bc752a266055eee30159fe1cef5304.s3tc.ctex"
+path.etc2="res://.godot/imported/Gas station_s2 Dusty BASE.png-a0bc752a266055eee30159fe1cef5304.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Png,JPG Picures/Gas station/Gas station_s2 Dusty BASE.png"
-dest_files=["res://.godot/imported/Gas station_s2 Dusty BASE.png-a0bc752a266055eee30159fe1cef5304.s3tc.ctex"]
+dest_files=["res://.godot/imported/Gas station_s2 Dusty BASE.png-a0bc752a266055eee30159fe1cef5304.s3tc.ctex", "res://.godot/imported/Gas station_s2 Dusty BASE.png-a0bc752a266055eee30159fe1cef5304.etc2.ctex"]
 
 [params]
 

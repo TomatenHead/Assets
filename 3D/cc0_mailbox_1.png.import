@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwxrb6oeijxg2"
+uid="uid://contkfduj6ia0"
 path.s3tc="res://.godot/imported/cc0_mailbox_1.png-8a6de10cbd8c84628ad4e9a3af20be15.s3tc.ctex"
+path.etc2="res://.godot/imported/cc0_mailbox_1.png-8a6de10cbd8c84628ad4e9a3af20be15.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/cc0_mailbox_1.png"
-dest_files=["res://.godot/imported/cc0_mailbox_1.png-8a6de10cbd8c84628ad4e9a3af20be15.s3tc.ctex"]
+dest_files=["res://.godot/imported/cc0_mailbox_1.png-8a6de10cbd8c84628ad4e9a3af20be15.s3tc.ctex", "res://.godot/imported/cc0_mailbox_1.png-8a6de10cbd8c84628ad4e9a3af20be15.etc2.ctex"]
 
 [params]
 

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgjdt66koobfi"
+uid="uid://fx8kt5a15u8b"
 path.s3tc="res://.godot/imported/Textures_02_Roughness.png-f3adbfc1c23c5f06ea25deddbdef31d5.s3tc.ctex"
+path.etc2="res://.godot/imported/Textures_02_Roughness.png-f3adbfc1c23c5f06ea25deddbdef31d5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/5_Buildings/Textures/Textures_02/Textures_02_Roughness.png"
-dest_files=["res://.godot/imported/Textures_02_Roughness.png-f3adbfc1c23c5f06ea25deddbdef31d5.s3tc.ctex"]
+dest_files=["res://.godot/imported/Textures_02_Roughness.png-f3adbfc1c23c5f06ea25deddbdef31d5.s3tc.ctex", "res://.godot/imported/Textures_02_Roughness.png-f3adbfc1c23c5f06ea25deddbdef31d5.etc2.ctex"]
 
 [params]
 

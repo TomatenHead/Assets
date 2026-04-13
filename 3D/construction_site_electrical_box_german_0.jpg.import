@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dty1xfi5cjvor"
+uid="uid://smqwf8m1cq6y"
 path.s3tc="res://.godot/imported/construction_site_electrical_box_german_0.jpg-a1853774ce7ce9bdfb54ead2b3b6f850.s3tc.ctex"
+path.etc2="res://.godot/imported/construction_site_electrical_box_german_0.jpg-a1853774ce7ce9bdfb54ead2b3b6f850.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/construction_site_electrical_box_german_0.jpg"
-dest_files=["res://.godot/imported/construction_site_electrical_box_german_0.jpg-a1853774ce7ce9bdfb54ead2b3b6f850.s3tc.ctex"]
+dest_files=["res://.godot/imported/construction_site_electrical_box_german_0.jpg-a1853774ce7ce9bdfb54ead2b3b6f850.s3tc.ctex", "res://.godot/imported/construction_site_electrical_box_german_0.jpg-a1853774ce7ce9bdfb54ead2b3b6f850.etc2.ctex"]
 
 [params]
 

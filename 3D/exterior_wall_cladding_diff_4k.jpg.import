@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://winrq7peq2y8"
+uid="uid://cn88mrtlba2um"
 path.s3tc="res://.godot/imported/exterior_wall_cladding_diff_4k.jpg-aaf635a5bd8ab9d35bcc79ac8b07f2fd.s3tc.ctex"
+path.etc2="res://.godot/imported/exterior_wall_cladding_diff_4k.jpg-aaf635a5bd8ab9d35bcc79ac8b07f2fd.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/exterior_wall_cladding_diff_4k.jpg"
-dest_files=["res://.godot/imported/exterior_wall_cladding_diff_4k.jpg-aaf635a5bd8ab9d35bcc79ac8b07f2fd.s3tc.ctex"]
+dest_files=["res://.godot/imported/exterior_wall_cladding_diff_4k.jpg-aaf635a5bd8ab9d35bcc79ac8b07f2fd.s3tc.ctex", "res://.godot/imported/exterior_wall_cladding_diff_4k.jpg-aaf635a5bd8ab9d35bcc79ac8b07f2fd.etc2.ctex"]
 
 [params]
 

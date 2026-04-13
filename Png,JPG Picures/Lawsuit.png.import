@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csuq3t3gdm5sh"
+uid="uid://cwo57fdeu3kd4"
 path.s3tc="res://.godot/imported/Lawsuit.png-5d6419da19e6234406f34b32dbcab59b.s3tc.ctex"
+path.etc2="res://.godot/imported/Lawsuit.png-5d6419da19e6234406f34b32dbcab59b.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Png,JPG Picures/Lawsuit.png"
-dest_files=["res://.godot/imported/Lawsuit.png-5d6419da19e6234406f34b32dbcab59b.s3tc.ctex"]
+dest_files=["res://.godot/imported/Lawsuit.png-5d6419da19e6234406f34b32dbcab59b.s3tc.ctex", "res://.godot/imported/Lawsuit.png-5d6419da19e6234406f34b32dbcab59b.etc2.ctex"]
 
 [params]
 

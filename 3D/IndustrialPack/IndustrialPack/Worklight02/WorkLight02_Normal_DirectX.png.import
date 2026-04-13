@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyyde858qhkcj"
+uid="uid://dgmk57n6vdgs2"
 path.s3tc="res://.godot/imported/WorkLight02_Normal_DirectX.png-e6092ae289738861eb57c4b7b868ae73.s3tc.ctex"
+path.etc2="res://.godot/imported/WorkLight02_Normal_DirectX.png-e6092ae289738861eb57c4b7b868ae73.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Worklight02/WorkLight02_Normal_DirectX.png"
-dest_files=["res://.godot/imported/WorkLight02_Normal_DirectX.png-e6092ae289738861eb57c4b7b868ae73.s3tc.ctex"]
+dest_files=["res://.godot/imported/WorkLight02_Normal_DirectX.png-e6092ae289738861eb57c4b7b868ae73.s3tc.ctex", "res://.godot/imported/WorkLight02_Normal_DirectX.png-e6092ae289738861eb57c4b7b868ae73.etc2.ctex"]
 
 [params]
 

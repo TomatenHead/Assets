@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cksvs64cgq0hv"
+uid="uid://c1imvk4iwd8fc"
 path.s3tc="res://.godot/imported/magic cube_MagicCube_baseColor.jpg-6397d130857a331278be7ad0dc634ca0.s3tc.ctex"
+path.etc2="res://.godot/imported/magic cube_MagicCube_baseColor.jpg-6397d130857a331278be7ad0dc634ca0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/magic cube_MagicCube_baseColor.jpg"
-dest_files=["res://.godot/imported/magic cube_MagicCube_baseColor.jpg-6397d130857a331278be7ad0dc634ca0.s3tc.ctex"]
+dest_files=["res://.godot/imported/magic cube_MagicCube_baseColor.jpg-6397d130857a331278be7ad0dc634ca0.s3tc.ctex", "res://.godot/imported/magic cube_MagicCube_baseColor.jpg-6397d130857a331278be7ad0dc634ca0.etc2.ctex"]
 
 [params]
 

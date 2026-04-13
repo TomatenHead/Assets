@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://yyxki05cgdb4"
+uid="uid://2ddnqk7oxwkk"
 path.s3tc="res://.godot/imported/999_0.png-78cc0a60a785200d071cb3a1f6e76992.s3tc.ctex"
+path.etc2="res://.godot/imported/999_0.png-78cc0a60a785200d071cb3a1f6e76992.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/five_story_residential_building/source/999_0.png"
-dest_files=["res://.godot/imported/999_0.png-78cc0a60a785200d071cb3a1f6e76992.s3tc.ctex"]
+dest_files=["res://.godot/imported/999_0.png-78cc0a60a785200d071cb3a1f6e76992.s3tc.ctex", "res://.godot/imported/999_0.png-78cc0a60a785200d071cb3a1f6e76992.etc2.ctex"]
 
 [params]
 

@@ -2,17 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyb12g7puie5l"
+uid="uid://g2cvcqwv5ei3"
 path.s3tc="res://.godot/imported/CarJack_Base_Color.png-e40f7e70c759388fd2288684c37d5f39.s3tc.ctex"
+path.etc2="res://.godot/imported/CarJack_Base_Color.png-e40f7e70c759388fd2288684c37d5f39.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/3D/IndustrialPack/IndustrialPack/Car_Jack/CarJack_Base_Color.png"
-dest_files=["res://.godot/imported/CarJack_Base_Color.png-e40f7e70c759388fd2288684c37d5f39.s3tc.ctex"]
+dest_files=["res://.godot/imported/CarJack_Base_Color.png-e40f7e70c759388fd2288684c37d5f39.s3tc.ctex", "res://.godot/imported/CarJack_Base_Color.png-e40f7e70c759388fd2288684c37d5f39.etc2.ctex"]
 
 [params]
 
